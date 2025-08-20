@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628fda&textBg=false"/>
 <div align="center">
   <samp>
-      <br>
       Hi there! I'm <b>Dárquio Wendel</b>
   </samp>
 </div>
@@ -12,7 +11,7 @@
   </p> 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img
@@ -27,7 +26,7 @@
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarqWendel&layout=compact&langs_count=16&theme=tokyonight&bg_color=0d1117&title_color=1e3a8a"
   />
-  <br><br>
+  <br>
   <img
     align="center"
     alt="Top Language"
@@ -64,7 +63,7 @@
       Contact me:
     </b>
   </samp>
-  <br><br>
+  <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=1e3a8a)](mailto:darquiowendel2021@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=1e3a8a)](https://www.instagram.com/darquio.oliveira/?next=%2F)
