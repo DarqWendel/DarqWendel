@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628fda&textBg=false"/>
+
 <div align="center">
   <samp>
       Hi there! I'm <b>Dárquio Wendel</b>
@@ -69,4 +69,4 @@
   [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=1e3a8a)](https://www.instagram.com/darquio.oliveira/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1e3a8a)](https://linkedin.com/in/dárquio-oliveira-605906269)
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628fda&textBg=false&section=footer"/>
+
